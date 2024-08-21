@@ -54,7 +54,9 @@ def player_choice(board):
 def replay():
     return input('Do you want to play again yes or no ').lower().startswith('y')
 
-print('Welcome to Tic Tac Toe')
+
+if __name__=="__main__":
+    print('Welcome to Tic Tac Toe')
 while True:
     board=[' ']*10
     player1_marker,player2_marker=player_input()
