@@ -1,1 +1,2 @@
 # Simple-Tic-Tac-Toe-
+This project implements the classic Tic Tac Toe game using Python. It is a simple, text-based game that runs in the console and allows two players to compete against each other. The game board is displayed using a 3x3 grid, and players take turns marking their chosen cells with either 'X' or 'O'. The game checks for a winner after each move and also determines when the game ends in a draw. The project showcases basic programming concepts such as loops, conditionals, functions, and user input handling.
